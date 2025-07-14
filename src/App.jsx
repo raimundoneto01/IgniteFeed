@@ -10,7 +10,7 @@ const postar = [
          {
             id: 1,
             author: {
-                    avatarUrl: "https://github.com/raimundoneto01.png" ,
+                    avatarUrl: "https://github.com/netoresende.png" ,
                     nome: "Neto Resende",
                     cargo: "Web Developer"
                 },
